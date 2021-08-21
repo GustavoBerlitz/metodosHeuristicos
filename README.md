@@ -1,0 +1,2 @@
+# metodosHeuristicos
+Scripts de aula
